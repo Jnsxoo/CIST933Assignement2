@@ -1,0 +1,501 @@
+question_id,question,question_type,question_source,expected_focus,system,is_stylised,retrieved_passages,generated_response,correctness_score,grounding_score,retrieval_relevance_score,usefulness_score,style_quality_score,comments
+Q1,Why does Macbeth kill Duncan?,contextual_qa,instructor,"Macbeth's ambition, the witches' prophecy, Duncan as an obstacle, and Lady Macbeth's pressure. Useful evidence may come from Acts 1–2.",baseline,,N/A (no retrieval),"Macbeth kills Duncan because he believes that Duncan is responsible for his own downfall and cannot bring himself to face the consequences of his actions. Macbeth is consumed by a desire for power and control, and he sees Duncan as an obstacle to achieving his goals. When Duncan refuses to bow to Macbeth's ambition, Macbeth sees this as a threat to his own ambitions and decides to eliminate him to prevent any obstacles in his path.",,,,,,
+Q1,Why does Macbeth kill Duncan?,contextual_qa,instructor,"Macbeth's ambition, the witches' prophecy, Duncan as an obstacle, and Lady Macbeth's pressure. Useful evidence may come from Acts 1–2.",rag,False,"[Rank 1, score=0.740] [Macbeth, Act 2, Scene 2 (The same)]
+Summary: Macbeth murders Duncan, and the couple reacts to guilt and fear.
+Summary: Macbeth murders Duncan, and the couple reacts to guilt and fear.
+Keywords: Duncan, murder, blood
+Location: The same
+[Enter Lady Macbeth.]
+LADY MACBETH. That which hath made them dr
+---
+[Rank 2, score=0.712] [Macbeth, Act 3, Scene 6]
+Summary: Scottish nobles discuss Macbeth’s tyranny and hope for resistance.
+Summary: Scottish nobles discuss Macbeth’s tyranny and hope for resistance.
+Keywords: tyranny, resistance
+FORRES. The palace.
+[Enter Lennox and another Lord.]
+LENNOX. My former speeches have but hit
+---
+[Rank 3, score=0.706] [Macbeth, Act 1, Scene 4]
+Summary: Duncan names Malcolm heir, creating an obstacle to Macbeth’s ambition.
+Summary: Duncan names Malcolm heir, creating an obstacle to Macbeth’s ambition.
+Keywords: Malcolm, succession, ambition
+FORRES. The palace.
+FLOURISH. Enter Duncan, Malcolm, Donalbain, Lennox, an","Macbeth kills Duncan because he sees him as a threat to his ambition and succession to the throne. Macbeth believes that Duncan, who is the son of King Duncan and Queen Margaret, is a rival for his position as king of Scotland. Macbeth believes that Duncan is plotting against him and that he needs to take action to prevent him from succeeding. Macbeth also believes that Duncan has been using his position to maintain power and influence, which makes him an untrustworthy ally. Macbeth feels that Duncan's death would strengthen his own position and legitimize his own succession to the throne. Ultimately, Macbeth's decision to kill Duncan is a tragic one that leads to his downfall and the downfall of his reign as king of Scotland.",,,,,,
+Q2,How does Macbeth change after becoming king?,contextual_qa,instructor,"He becomes increasingly fearful, violent, paranoid, and tyrannical; relevant evidence includes Banquo's murder, the banquet, and later acts.",baseline,,N/A (no retrieval),"Certainly! Here's a beginner-friendly answer:
+
+Macbeth changes significantly after becoming king. At the beginning of the play, he's a brave and ambitious soldier who dreams of becoming the king of Scotland. However, he soon realizes that his ambition is not worth the cost of lives and the destruction of the country. Macbeth becomes increasingly cynical and begins to question the morality of his actions, leading to a descent into madness and eventual death. He becomes more and more isolated and alone, unable to reconcile his newfound power with the horrors he's committed. Ultimately, Macbeth is unable to keep up the facade of a loyal and dutiful king and is driven to a violent and brutal end.",,,,,,
+Q2,How does Macbeth change after becoming king?,contextual_qa,instructor,"He becomes increasingly fearful, violent, paranoid, and tyrannical; relevant evidence includes Banquo's murder, the banquet, and later acts.",rag,False,"[Rank 1, score=0.623] [Macbeth, Act 3, Scene 6]
+Summary: Scottish nobles discuss Macbeth’s tyranny and hope for resistance.
+Summary: Scottish nobles discuss Macbeth’s tyranny and hope for resistance.
+Keywords: tyranny, resistance
+FORRES. The palace.
+[Enter Lennox and another Lord.]
+LENNOX. My former speeches have but hit
+---
+[Rank 2, score=0.606] [Macbeth, Act 3, Scene 1]
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance.
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance. 
+ Keywords: Banquo, Fleance, paranoia 
+ FORRES. The palace. 
+ [Enter Banquo.] 
+ BANQUO. Thou hast it now: King, Cawdor, Glamis, all, A
+---
+[Rank 3, score=0.605] [Macbeth, Act 1, Scene 4]
+Summary: Duncan names Malcolm heir, creating an obstacle to Macbeth’s ambition.
+Summary: Duncan names Malcolm heir, creating an obstacle to Macbeth’s ambition.
+Keywords: Malcolm, succession, ambition
+FORRES. The palace.
+FLOURISH. Enter Duncan, Malcolm, Donalbain, Lennox, an","Macbeth changes drastically after becoming king. Initially, he is arrogant, paranoid, and obsessed with power, leading him to murder and commit crimes against others. However, after his fall from grace, he becomes more compassionate and redeems himself by acknowledging his mistakes and seeking forgiveness from those he has wronged. This transformation is evident in his interactions with Lady Macbeth and the other characters, as well as his decision to leave Scotland and seek exile. He also becomes more introspective and reflective, reflecting on his actions and considering the consequences of his actions. Ultimately, Macbeth's transformation leads to his downfall, as his ambition and desire for power ultimately lead him to commit the ultimate crime and suffer the consequences of his actions.",,,,,,
+Q3,Why does Hamlet delay taking revenge?,contextual_qa,instructor,"Uncertainty, moral hesitation, need to test Claudius's guilt, and reflective temperament; use evidence from the ghost scene, the play-within-a-play, and prayer scene.",baseline,,N/A (no retrieval),"Hamlet, the protagonist of William Shakespeare's play ""Hamlet,"" delays taking revenge on his uncle, Claudius, for killing his father, King Hamlet. In the play, Hamlet's mother, Gertrude, married Claudius after her husband's death, and Hamlet's uncle, who is also his father's brother, was poisoned by Claudius. This act of murder had a devastating effect on Hamlet, who was deeply affected by his father's death and believed that his uncle's actions were a betrayal of his father's memory. Hamlet's anger and grief led him to consider taking revenge on Claudius, but he was hesitant to do so for several reasons. First, he feared the consequences of killing someone he had grown to love and trust, and second, he was still grappling with the emotional impact of his father's death and the betrayal of his uncle. Ultimately, Hamlet's hesitation and indecision led him to postpone taking revenge, ultimately allowing him to confront and ultimately come to terms with his feelings towards his uncle.",,,,,,
+Q3,Why does Hamlet delay taking revenge?,contextual_qa,instructor,"Uncertainty, moral hesitation, need to test Claudius's guilt, and reflective temperament; use evidence from the ghost scene, the play-within-a-play, and prayer scene.",rag,False,"[Rank 1, score=0.592] [Hamlet, Act 3, Scene 1]
+Summary: Hamlet reflects on existence, rejects Ophelia, and Claudius suspects danger.
+Summary: Hamlet reflects on existence, rejects Ophelia, and Claudius suspects danger. 
+ Keywords: to be or not to be, Ophelia 
+ ELSINORE. A room in the Castle. 
+ [Enter King, Queen, Poloniu
+---
+[Rank 2, score=0.583] [Hamlet, Act 1, Scene 4]
+Summary: Hamlet waits for the ghost and follows it.
+Summary: Hamlet waits for the ghost and follows it. 
+ Keywords: ghost, Hamlet 
+ ELSINORE. The platform before the Castle. 
+ [Enter Hamlet, Horatio, and Marcellus.] 
+ HAMLET. The air bites shrewdly; it is very cold. 
+ HORATI
+---
+[Rank 3, score=0.577] [Hamlet, Act 2, Scene 2]
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius.
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius. 
+ Keywords: players, Mousetrap 
+ ELSINORE. A room in the Castle. 
+ FLOURISH. [Enter King an","Hamlet delays taking revenge because he is hesitant to harm Claudius, who he believes is innocent. He has already spoken with Polonius, who confirms that Claudius is the true king and that he has been using Hamlet as a pawn to gain power. Hamlet has also been mulling over the idea of taking revenge for his father's death and the betrayal of his mother, but he is hesitant to act out of fear of hurting Claudius. He wants to give Claudius enough time to prove his innocence before taking any action, but he knows that this is not a straightforward situation and that there may be other motives behind Claudius' actions. Ultimately, Hamlet decides to let the situation play out and see what happens before taking any further action.",,,,,,
+Q4,What is Ophelia's role in the tragedy?,contextual_qa,instructor,"Ophelia is caught between Hamlet, Polonius, Laertes, and court politics; her distress and death reveal the human cost of revenge and manipulation.",baseline,,N/A (no retrieval),"Ophelia's role in ""Hamlet"" is to be the protagonist's love interest and a victim of fate. She is portrayed as a naive and innocent woman who is ultimately destroyed by her own emotions and the consequences of her actions. She is a symbol of the idea that the world is a cruel and unforgiving place, and that love and human connection are fleeting. Her tragic death is a reminder that even the most beautiful and passionate love affairs can ultimately lead to tragic ends.",,,,,,
+Q4,What is Ophelia's role in the tragedy?,contextual_qa,instructor,"Ophelia is caught between Hamlet, Polonius, Laertes, and court politics; her distress and death reveal the human cost of revenge and manipulation.",rag,False,"[Rank 1, score=0.619] [Hamlet, Act 2, Scene 1]
+Summary: Polonius sends Reynaldo to spy and hears Hamlet behaved strangely toward Ophelia.
+Good my lord!                                    [Going.] 
+ POLONIUS. Observe his inclination in yourself. 
+ REYNALDO. I shall, my lord. 
+ POLONIUS. And let him ply his music. 
+ REYNAL
+---
+[Rank 2, score=0.619] [Hamlet, Act 3, Scene 2]
+Summary: The play-within-a-play unsettles Claudius.
+Anon comes in a fellow, takes off his] 
+ [crown, kisses it, pours poison in the sleeper's ears, and] 
+ [leaves him. The Queen returns, finds the King dead, and makes] 
+ [passionate action. The Poisoner with some three or fo
+---
+[Rank 3, score=0.574] [Hamlet, Act 4, Scene 5]
+Summary: Ophelia’s madness and Laertes’s return deepen the crisis.
+Summary: Ophelia’s madness and Laertes’s return deepen the crisis. 
+ Keywords: Ophelia, Laertes 
+ ELSINORE. A room in the Castle. 
+ [Enter Horatio, Queen, and a Gentleman.] 
+ GERTRUDE. I will not speak with h","Ophelia's role in the tragedy is to deepen the crisis by unraveling the secrets of her father's death, which causes the King and Queen to lose faith in him and leads to the tragic events that follow. Her madness and return to the scene of her father's death deepen the crisis by exposing the truth about her father's death and her father's relationship with her brother, Laertes. This leads to her eventual suicide, which further complicates the situation. Her role in the tragedy is to symbolize the chaos and instability that arise from unresolved grief and guilt.",,,,,,
+Q5,Why is Juliet conflicted after Romeo kills Tybalt?,contextual_qa,instructor,Juliet loves Romeo but Tybalt is her kinsman; she must reconcile romantic loyalty with family loyalty.,baseline,,N/A (no retrieval),"Juliet is conflicted after Romeo kills Tybalt because she loves Romeo, but she also loves her family and friends. Romeo's violent act, which she had hoped would lead to a peaceful resolution, instead escalates their conflict and causes her to question her own feelings for him. This conflict is not only a result of Romeo's actions but also of the societal norms and expectations that dictate what is acceptable in a romantic relationship. Juliet's internal conflict is a reflection of the complex and often conflicting emotions that people feel when faced with a situation that challenges their values and beliefs.",,,,,,
+Q5,Why is Juliet conflicted after Romeo kills Tybalt?,contextual_qa,instructor,Juliet loves Romeo but Tybalt is her kinsman; she must reconcile romantic loyalty with family loyalty.,rag,False,"[Rank 1, score=0.669] [Romeo and Juliet, Act 3, Scene 2 (Capulet's orchard)]
+Summary: Juliet learns Romeo killed Tybalt and is torn between love and family loyalty.
+Summary: Juliet learns Romeo killed Tybalt and is torn between love and family loyalty. 
+ Keywords: Juliet, Tybalt, conflict 
+ Location: Capulet's orchard 
+ 
+---
+[Rank 2, score=0.638] [Romeo and Juliet, Act 2, Scene 4 (A street)]
+Summary: Romeo arranges marriage plans through the Nurse.
+Summary: Romeo arranges marriage plans through the Nurse. 
+ Keywords: Nurse, message 
+ Location: A street 
+ [Enter Benvolio and Mercutio.] 
+ MERCUTIO. Where the devil should this Romeo be? Came he
+---
+[Rank 3, score=0.635] [Romeo and Juliet, Act 3, Scene 1 (A public place)]
+Summary: Tybalt kills Mercutio; Romeo kills Tybalt and is banished.
+Summary: Tybalt kills Mercutio; Romeo kills Tybalt and is banished. 
+ Keywords: Tybalt, Mercutio, banishment 
+ Location: A public place 
+ [Enter Mercutio, Benvolio, and Men.] 
+ BEN","Juliet is conflicted after Romeo kills Tybalt because she loves Romeo and is torn between her loyalty to her family and her feelings for him. Romeo's actions towards Tybalt, who is a family friend, cause Juliet to feel anger, disgust, and sadness. She is also conflicted because she is in love with Romeo and fears that he will suffer the same fate as Tybalt. Juliet's conflicted emotions are evident when she speaks to her family, who are deeply affected by the situation and are unable to understand her feelings. Additionally, Juliet's loyalty to her family and her desire to protect Romeo from Tybalt's wrath is a significant factor in her decision to stay with Romeo and prevent him from harming Tybalt. Ultimately, Juliet's conflicted emotions lead to her decision to leave Romeo and return to her family, where she feels safe and loved.",,,,,,
+Q6,How does the family feud shape the tragedy?,contextual_qa,instructor,"The feud creates violence, secrecy, pressure, miscommunication, and ultimately the conditions for the lovers' deaths.",baseline,,N/A (no retrieval),"The family feud plays a crucial role in shaping the tragic nature of Shakespeare's play ""Romeo and Juliet."" The feud between the Capulets and Montagues is a source of conflict that drives the plot and ultimately leads to the tragic deaths of the two star-crossed lovers. The feud is a representation of the deep-rooted hatred and enmity that exists between the two families, and it serves as a constant source of tension and friction throughout the play. The feud also highlights the destructive nature of jealousy and the destructive impact it can have on the lives of those involved. By exposing the true nature of the feud and its underlying causes, Shakespeare is able to create a compelling and emotional portrayal of the tragic events that unfold.",,,,,,
+Q6,How does the family feud shape the tragedy?,contextual_qa,instructor,"The feud creates violence, secrecy, pressure, miscommunication, and ultimately the conditions for the lovers' deaths.",rag,False,"[Rank 1, score=0.557] [Romeo and Juliet, Act 0, Scene 0 (Prologue)]
+Summary: The prologue introduces the feud and announces that the lovers’ deaths will end it.
+Summary: The prologue introduces the feud and announces that the lovers’ deaths will end it.
+Keywords: prologue, feud, fate
+Location: Prologue
+[Enter Chorus.]
+CH
+---
+[Rank 2, score=0.414] [Macbeth, Act 1, Scene 1 (A desert place. Thunder and lightning)]
+Summary: The witches gather and set up the play’s atmosphere of moral confusion.
+Summary: The witches gather and set up the play’s atmosphere of moral confusion.
+Keywords: witches, prophecy, foul and fair
+Location: A desert place. Thu
+---
+[Rank 3, score=0.390] [Romeo and Juliet, Act 3, Scene 5 (Capulet's orchard)]
+Summary: Romeo and Juliet part, and Juliet resists her father’s marriage plan.
+Some grief shows much of love; But much of grief shows still some want of wit. 
+ JULIET. Yet let me weep for such a feeling loss. 
+ LADY. So shall you feel the loss, ","The family feud is the central theme of Shakespeare's tragedy ""Romeo and Juliet."" The feud between the Capulet and Montague families, which causes the lovers' tragic deaths, is what drives the plot and creates the emotional and psychological turmoil within the characters. The feud affects the families' relationships, affects their personal lives, and ultimately contributes to the tragedy.
+
+The feud begins when the Montagues and Capulets meet for the first time at a feast, and the Capulets are initially hostile towards the Montagues. However, as the feast progresses, the Montagues become more interested in the Capulets, and the feud escalates. The feud is fueled by jealousy, resentment, and a desire for revenge.
+
+The feud also impacts the personal lives of the characters. Romeo and Juliet's families are divided by the feud, and this causes tension and conflict in their relationships. Juliet's father, the jealous and envious Lord Capulet, is especially hostile towards Romeo and his family. This contributes to their tragic fates.
+
+The feud also affects the characters' personal lives. Juliet's love for Romeo is central to the tragedy, and her fear and desire for love are a central theme. Her parents' fear and jealousy also play a role in her desire for Romeo, as they see her as a threat to their marriage plans.
+
+Finally, the feud creates a sense of psychological turmoil for the characters. The feud leads to a loss of faith in their loved ones and a breakdown in their relationships. This contributes to the tragic fate of the characters.
+
+In summary, the family feud is the central theme of ""Romeo and Juliet"" and drives the plot and contributes to the tragic fate of the characters. The feud creates emotional and psychological turmoil, contributes to the breakdown of relationships, and ultimately leads to the tragic deaths of Romeo and Juliet.",,,,,,
+G1,Who is Lady Macbeth and what role does she play?,concept_explanation,group,"Lady Macbeth is Macbeth's wife who drives him to murder Duncan; she shows ambition, manipulation, and later guilt leading to madness.",baseline,,N/A (no retrieval),"Lady Macbeth is a character in William Shakespeare's play ""Macbeth."" She is the wife of the title character and a powerful force in his life. Lady Macbeth plays a significant role in driving Macbeth's descent into madness and ultimately his downfall. She encourages him to commit murder and manipulates him into taking the blame for the crime, setting in motion the tragic events that follow. Her power and ambition overshadow her husband's conscience and ultimately lead to their downfall.",,,,,,
+G1,Who is Lady Macbeth and what role does she play?,concept_explanation,group,"Lady Macbeth is Macbeth's wife who drives him to murder Duncan; she shows ambition, manipulation, and later guilt leading to madness.",rag,False,"[Rank 1, score=0.614] [Macbeth, Act 3, Scene 2 (The palace)]
+Summary: Macbeth and Lady Macbeth reflect on insecurity after gaining power.
+Summary: Macbeth and Lady Macbeth reflect on insecurity after gaining power.
+Keywords: insecurity, power
+Location: The palace
+[Enter Lady Macbeth and a Servant.]
+LADY MACBETH. Is Banqu
+---
+[Rank 2, score=0.611] [Macbeth, Act 3, Scene 1]
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance.
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance. 
+ Keywords: Banquo, Fleance, paranoia 
+ FORRES. The palace. 
+ [Enter Banquo.] 
+ BANQUO. Thou hast it now: King, Cawdor, Glamis, all, A
+---
+[Rank 3, score=0.598] [Macbeth, Act 1, Scene 5]
+Summary: Lady Macbeth reads Macbeth’s letter and resolves to push him toward murder.
+Summary: Lady Macbeth reads Macbeth’s letter and resolves to push him toward murder.
+Keywords: Lady Macbeth, letter, murder
+INVERNESS. Macbeth's castle.
+[Enter Lady Macbeth, reading a lette","Lady Macbeth is a major character in Shakespeare's play ""Macbeth,"" and her role in the story is to motivate and push Macbeth toward murder. She is portrayed as a woman who is deeply in love with Macbeth, but is also driven by a desire for power and glory. Her letter to Macbeth, which she reads aloud, is a letter of instruction that outlines her plan to push him toward murder. She also refers to herself as ""Thane of Cawdor"" and suggests that he should not lose the dues of rejoicing by being ignorant of what greatness is promised him. Lady Macbeth is portrayed as a character who is both manipulative and deeply insecure, as she fears that Macbeth's nature is too full of ambition and she believes that he will not be able to keep his promises. Throughout the play, she is portrayed as a villain who is determined to use Macbeth's power and success to further her own agenda.",,,,,,
+G2,Who is Claudius and why is he important?,concept_explanation,group,"Claudius is Hamlet's uncle who murdered Hamlet's father, married Gertrude, and became king. He is the central antagonist.",baseline,,N/A (no retrieval),"Certainly! Claudius is one of the main characters in Shakespeare's play, Hamlet. He is a powerful and ruthless king of Denmark who is portrayed as a cold-hearted and manipulative villain. Claudius is important because he is the father of Hamlet's mother, Gertrude, and therefore the one responsible for her death. Claudius's manipulation of events throughout the play, particularly his plot to have Hamlet killed, reveals his true intentions and motivations. His character is complex and multifaceted, making him a fascinating and important figure in Shakespeare's play.",,,,,,
+G2,Who is Claudius and why is he important?,concept_explanation,group,"Claudius is Hamlet's uncle who murdered Hamlet's father, married Gertrude, and became king. He is the central antagonist.",rag,False,"[Rank 1, score=0.589] [Hamlet, Act 3, Scene 3 (A room in the Castle)]
+Summary: Hamlet finds Claudius praying but delays killing him.
+Summary: Hamlet finds Claudius praying but delays killing him. 
+ Keywords: delay, prayer 
+ Location: A room in the Castle 
+ [Enter King, Rosencrantz, and Guildenstern.] 
+ CLAUDIUS. I like h
+---
+[Rank 2, score=0.570] [Hamlet, Act 4, Scene 3]
+Summary: Claudius sends Hamlet to England with secret orders for his death.
+Summary: Claudius sends Hamlet to England with secret orders for his death.
+Keywords: England, plot
+ELSINORE. A room in the Castle.
+[Enter King.]
+CLAUDIUS. I have sent to seek him and to find the bod
+---
+[Rank 3, score=0.542] [Hamlet, Act 2, Scene 2]
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius.
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius. 
+ Keywords: players, Mousetrap 
+ ELSINORE. A room in the Castle. 
+ FLOURISH. [Enter King an","Claudius is the husband of Gertrude and the father of Hamlet. He is a powerful and ambitious man who seeks to usurp the throne from his brother, King Hamlet. He is a key player in the play, as he is the one who murders Hamlet's father and attempts to kill him on stage. Claudius's character is complex, as he is both a cruel and calculating man, who seeks to rule his kingdom and his family, and a victim of his own hubris and greed. His actions throughout the play are driven by his desire for power and control, and he is ultimately responsible for the tragic events that unfold.",,,,,,
+G3,Who is Mercutio and what happens to him?,concept_explanation,group,"Mercutio is Romeo's witty friend; Tybalt kills him in Act 3, which triggers Romeo to kill Tybalt and leads to banishment.",baseline,,N/A (no retrieval),"Mercutio is a character in William Shakespeare's play ""Romeo and Juliet."" He is a young man who is a friend of Romeo, but he dies by falling into a pit created by the Montagues. In the play, Mercutio's death is a significant moment because it highlights the contrast between the two rival families and the tragic consequences of their rivalry. Mercutio's death is a result of his recklessness and his desire to challenge the societal norms that dictate what is proper behavior for men of his class.",,,,,,
+G3,Who is Mercutio and what happens to him?,concept_explanation,group,"Mercutio is Romeo's witty friend; Tybalt kills him in Act 3, which triggers Romeo to kill Tybalt and leads to banishment.",rag,False,"[Rank 1, score=0.558] [Romeo and Juliet, Act 3, Scene 1 (A public place)]
+Summary: Tybalt kills Mercutio; Romeo kills Tybalt and is banished.
+Summary: Tybalt kills Mercutio; Romeo kills Tybalt and is banished. 
+ Keywords: Tybalt, Mercutio, banishment 
+ Location: A public place 
+ [Enter Mercutio, Benvolio, and Men.] 
+ BEN
+---
+[Rank 2, score=0.468] [Romeo and Juliet, Act 2, Scene 4 (A street)]
+Summary: Romeo arranges marriage plans through the Nurse.
+Summary: Romeo arranges marriage plans through the Nurse. 
+ Keywords: Nurse, message 
+ Location: A street 
+ [Enter Benvolio and Mercutio.] 
+ MERCUTIO. Where the devil should this Romeo be? Came he
+---
+[Rank 3, score=0.421] [Romeo and Juliet, Act 2, Scene 1 (A lane by the wall of Capulet's orchard)]
+Summary: Romeo hides from his friends after the feast.
+Summary: Romeo hides from his friends after the feast.
+Keywords: Romeo, secrecy
+Location: A lane by the wall of Capulet's orchard
+[Enter Romeo alone.]
+ROMEO. Can I go f","Mercutio is a minor character in Shakespeare's play ""Romeo and Juliet,"" and he is portrayed as a character who is known for his wit, charm, and cunning. He is often seen as a comic relief in the play, and his interactions with other characters often involve him making sarcastic or witty remarks. However, in Act 3, Scene 1 of the play, Mercutio becomes seriously injured after being hit by Tybalt, the Capulet rival who is trying to kill Romeo. The injury causes Mercutio to lose his life, and his death is a significant event in the play that affects Romeo deeply.
+
+After Mercutio's death, Romeo becomes increasingly despondent and distraught, and his grief is evident in his speeches and actions. He is seen as a man who has lost his mind, and his attempts to reconcile with his love for Rosaline are met with resistance and anger from her. This conflict between Romeo and his love is a central theme of the play, and it is through his relationship with Rosaline that Romeo must confront his own feelings of love and grief.
+
+In the end, Romeo's love for Rosaline is ultimately able to heal him, and he returns to Capulet with his wife, Juliet. However, Mercutio's death serves as a reminder of the fragility of life and the importance of cherishing the relationships we have with the people we love.",,,,,,
+G4,What do the witches predict for Macbeth and Banquo?,evidence_retrieval,group,The witches predict Macbeth will be Thane of Cawdor and king; Banquo's descendants will be kings. Evidence from Act 1 Scene 3.,baseline,,N/A (no retrieval),"The witches in Shakespeare's play Macbeth and Banquo predict that Macbeth will become King and Banquo will have a son, respectively. These prophecies are based on Macbeth's sinful nature and his desire for power, which the witches see as a manifestation of his evil. The prophecies are a warning to Macbeth and Banquo, reminding them of their own consequences for their actions.",,,,,,
+G4,What do the witches predict for Macbeth and Banquo?,evidence_retrieval,group,The witches predict Macbeth will be Thane of Cawdor and king; Banquo's descendants will be kings. Evidence from Act 1 Scene 3.,rag,False,"[Rank 1, score=0.697] [Macbeth, Act 1, Scene 3 (A heath. Thunder)]
+Summary: The witches greet Macbeth with prophecies that awaken his ambition.
+Summary: The witches greet Macbeth with prophecies that awaken his ambition. 
+ Keywords: prophecy, Macbeth, Banquo 
+ Location: A heath. Thunder 
+ [Enter the three Witches.] 
+ FIR
+---
+[Rank 2, score=0.662] [Macbeth, Act 1, Scene 1 (A desert place. Thunder and lightning)]
+Summary: The witches gather and set up the play’s atmosphere of moral confusion.
+Summary: The witches gather and set up the play’s atmosphere of moral confusion.
+Keywords: witches, prophecy, foul and fair
+Location: A desert place. Thu
+---
+[Rank 3, score=0.658] [Macbeth, Act 3, Scene 1]
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance.
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance. 
+ Keywords: Banquo, Fleance, paranoia 
+ FORRES. The palace. 
+ [Enter Banquo.] 
+ BANQUO. Thou hast it now: King, Cawdor, Glamis, all, A","The witches predict for Macbeth and Banquo that Banquo will be the root and father of many kings, and that Macbeth's paranoia and fear of Banquo's prophecies will ultimately lead to his downfall. The witches also warn Macbeth of his own foulness and the dangers of trusting in prophecies, as he is soon to face the consequences of his actions. Additionally, the witches suggest that Macbeth should not forget his guest, who is a vital part of his supper. Overall, the witches' prophecies and warnings reflect the play's theme of morality, mortality, and the dangers of trusting in superstition.",,,,,,
+G5,What happens in the play-within-a-play scene?,evidence_retrieval,group,"Hamlet stages 'The Mousetrap' to mirror Claudius's murder of his father. Claudius reacts with guilt, confirming the ghost's story. Act 3 Scene 2.",baseline,,N/A (no retrieval),"In the play-within-a-play scene of ""Twelfth Night,"" Viola disguises herself as a man named Cesario and pretends to be a servant to Olivia, the queen. She meets Olivia's lover, Sir Toby Belch, and they have a passionate love scene, which is interrupted by the arrival of Olivia's rival, Maria, who turns out to be a woman. Olivia decides to take matters into her own hands and sends Cesario back to his own time, disguised as a woman named Olivia. Cesario realizes that he is no longer in his own time and goes back to his own time, where he meets Olivia and returns to his own time.",,,,,,
+G5,What happens in the play-within-a-play scene?,evidence_retrieval,group,"Hamlet stages 'The Mousetrap' to mirror Claudius's murder of his father. Claudius reacts with guilt, confirming the ghost's story. Act 3 Scene 2.",rag,False,"[Rank 1, score=0.459] [Hamlet, Act 3, Scene 2]
+Summary: The play-within-a-play unsettles Claudius.
+Summary: The play-within-a-play unsettles Claudius. 
+ Keywords: play, Claudius, guilt 
+ ELSINORE. hall in the Castle. 
+ [Enter Hamlet and three of the Players.] 
+ HAMLET. Speak the speech, I pray you, as I pronounc'd it to 
+---
+[Rank 2, score=0.370] [Hamlet, Act 1, Scene 4]
+Summary: Hamlet waits for the ghost and follows it.
+The very place puts toys of desperation, Without more motive, into every brain That looks so many fadoms to the sea And hears it roar beneath. 
+ HAMLET. It waves me still. Go on. I'll follow thee. 
+ MARCELLUS. You shall not
+---
+[Rank 3, score=0.367] [Macbeth, Act 1, Scene 1 (A desert place. Thunder and lightning)]
+Summary: The witches gather and set up the play’s atmosphere of moral confusion.
+Summary: The witches gather and set up the play’s atmosphere of moral confusion.
+Keywords: witches, prophecy, foul and fair
+Location: A desert place. Thu","The play-within-a-play scene in Shakespeare's Hamlet involves the characters of Hamlet and three of his Players, who are discussing the play that they are about to perform. The play, titled ""The Ghost,"" is described as being ""tributary to the tempest,"" with the players tearing up the ""rocks of the groundlings"" and causing a ""torrent"" that ""offends the soul"" to hear a ""robustious periwig-pated fellow tear a passion to tatters."" The characters also mention the ""hurdles"" that will be set up for them to perform in.
+
+The play is a disaster, with the characters experiencing ""overdone, or come tardy off,"" as well as being ""torn by tempest,"" ""tormented by tempest,"" and ""offended by tempest,"" which further emphasizes the theme of moral confusion. The ""foul and fair"" conversation between the characters highlights the complexities of human nature and the inability to truly know oneself.
+
+Overall, the play-within-a-play scene serves as a foreshadowing of the larger themes of the play, including the tension between the natural order of society and the unpredictable forces of human emotion and desire.",,,,,,
+G6,How do Romeo and Juliet die?,contextual_qa,group,Romeo takes poison believing Juliet is dead; Juliet wakes and stabs herself. Miscommunication and the friar's failed plan are central. Act 5.,baseline,,N/A (no retrieval),"Answer: Romeo and Juliet die in a tragic love triangle. Romeo and Juliet fall in love, but their families forbid their marriage. The tragic result is that Romeo kills himself and Juliet dies of a broken heart.",,,,,,
+G6,How do Romeo and Juliet die?,contextual_qa,group,Romeo takes poison believing Juliet is dead; Juliet wakes and stabs herself. Miscommunication and the friar's failed plan are central. Act 5.,rag,False,"[Rank 1, score=0.631] [Romeo and Juliet, Act 5, Scene 1]
+Summary: Romeo hears Juliet is dead and buys poison.
+Summary: Romeo hears Juliet is dead and buys poison. 
+ Keywords: Romeo, poison 
+ MANTUA. A street. 
+ [Enter Romeo.] 
+ ROMEO. If I may trust the flattering truth of sleep My dreams presage some joyful news at hand
+---
+[Rank 2, score=0.590] [Romeo and Juliet, Act 3, Scene 2 (Capulet's orchard)]
+Summary: Juliet learns Romeo killed Tybalt and is torn between love and family loyalty.
+Summary: Juliet learns Romeo killed Tybalt and is torn between love and family loyalty. 
+ Keywords: Juliet, Tybalt, conflict 
+ Location: Capulet's orchard 
+ 
+---
+[Rank 3, score=0.582] [Romeo and Juliet, Act 2, Scene 6 (Friar Laurence's cell)]
+Summary: Romeo and Juliet marry secretly.
+Summary: Romeo and Juliet marry secretly.
+Keywords: secret marriage
+Location: Friar Laurence's cell
+[Enter Friar [Laurence] and Romeo.]
+FRIAR LAURENCE. So smile the heavens upon this holy act That af","Romeo and Juliet die from the same cause: starvation. In Act 1, Scene 5, Romeo tells Juliet that he is leaving for Verona to fetch her letters from the friar. He is unable to obtain them due to his father's strict orders not to allow them to leave Verona. In Act 3, Scene 2, Juliet learns of Romeo's death and is torn between love and family loyalty. She refuses to leave Verona without Romeo, and he dies from starvation.",,,,,,
+G7,Generate a short Shakespearean-style speech from Lady Macbeth urging Macbeth to seize the crown.,stylised_generation,group,"Creative stylised output reflecting Lady Macbeth's ambition, determination, and manipulation of Macbeth's courage.",baseline,,N/A (no retrieval),"Lady Macbeth:
+
+Our fate is sealed, my dearest Macbeth. The blood of our enemies is on our hands. The throne is ours, and we must seize it with all our might.
+
+Macbeth:
+
+Lady, what is the price of a crown?
+
+Lady Macbeth:
+
+The price of a crown is a lifetime of tyranny and oppression. We must sacrifice our own ambitions and desires to protect the ones we love.
+
+Macbeth:
+
+But what if we cannot achieve it? What if we fail?
+
+Lady Macbeth:
+
+Then we will die. But we will die as brave and just rulers, and our children will live to see our names immortalized in history.
+
+Macbeth:
+
+Lady, I fear you're right.
+
+Lady Macbeth:
+
+But that's not enough. We must do more than just survive. We must use our power for good.
+
+Macbeth:
+
+But what good is power if we don't use it wisely?
+
+Lady Macbeth:
+
+Power is not a license to be ruthless. It's a responsibility to use it for the greater good.
+
+Macbeth:
+
+But what if I don't want to use it for good?
+
+Lady Macbeth:
+
+Then you must take it from me.
+
+Macbeth:
+
+Lady, I don't think that's fair.
+
+Lady Macbeth:
+
+No, Macbeth. You do. You're the one who chose to embrace the throne. You're the one who willingly became a tyrant.
+
+Macbeth:
+
+Lady, I will never accept this.
+
+Lady Macbeth:
+
+You will. You must. You're a man, Macbeth. You're capable of change.
+
+Macbeth:
+
+But what if I can't change?
+
+Lady Macbeth:
+
+Then you must accept the crown.
+
+Macbeth:
+
+Lady, I don't want to accept the crown.
+
+Lady Macbeth:
+
+Then I'll take the",,,,,,
+G7,Generate a short Shakespearean-style speech from Lady Macbeth urging Macbeth to seize the crown.,stylised_generation,group,"Creative stylised output reflecting Lady Macbeth's ambition, determination, and manipulation of Macbeth's courage.",rag,True,"[Rank 1, score=0.625] [Macbeth, Act 3, Scene 2 (The palace)]
+Summary: Macbeth and Lady Macbeth reflect on insecurity after gaining power.
+Summary: Macbeth and Lady Macbeth reflect on insecurity after gaining power.
+Keywords: insecurity, power
+Location: The palace
+[Enter Lady Macbeth and a Servant.]
+LADY MACBETH. Is Banqu
+---
+[Rank 2, score=0.602] [Macbeth, Act 3, Scene 1]
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance.
+Summary: Macbeth fears Banquo and arranges to murder him and Fleance. 
+ Keywords: Banquo, Fleance, paranoia 
+ FORRES. The palace. 
+ [Enter Banquo.] 
+ BANQUO. Thou hast it now: King, Cawdor, Glamis, all, A
+---
+[Rank 3, score=0.601] [Macbeth, Act 1, Scene 5]
+Summary: Lady Macbeth reads Macbeth’s letter and resolves to push him toward murder.
+Summary: Lady Macbeth reads Macbeth’s letter and resolves to push him toward murder.
+Keywords: Lady Macbeth, letter, murder
+INVERNESS. Macbeth's castle.
+[Enter Lady Macbeth, reading a lette","[NOTE: The following is creative Shakespearean-style output, not factual evidence.]
+
+LADY MACBETH
+""It is safer to be that which we destroy Than by destruction dwell in doubtful joy.""
+
+Macbeth,
+
+It is with great concern that I write to you today. Your reign has been marked by insecurity, and your power has been seized by those who have used it for their own gain. I fear that you may be prone to paranoia, and that you may be tempted to act out of fear and desperation.
+
+It is said that Banquo and Fleance are a threat to your reign, and that you have arranged to murder them and their offspring. This is not the way to protect your crown. Your actions are not in line with the words that you spoke when you ascended to the throne.
+
+Those who have come to you with words of encouragement and praise should be shunned. They have been deceiving you, and you should not listen to them. The paranoia that you are experiencing is not a sign of greatness, but of weakness.
+
+If you are not careful, you may be swept away by the storms that are brewing. The truth is that you are not the only one who has fallen under the spell of power. Many others have fallen prey to it as well, and they have been destroyed by it.
+
+You are the heir to a great throne, but you must be careful of your words and actions. You must not let your desires and passions consume you. You must maintain a clear head and a steady hand.
+
+Remember that you are not the only one who has sought to gain power. Many have fallen to the same fate as you. Remember that the weight of the crown is heavy, and that it is not for the faint of heart.
+
+I urge you to seize the crown with caution, and with wisdom. Do not let your desires drive you to acts of violence or cruelty. Instead, use your power for good, and for the benefit of all.
+
+May the stars above guide you, and may the winds of fortune be with you always.
+
+Love,
+
+Lady Macbeth",,,,,,
+G8,Generate a short Shakespearean-style response from Hamlet reflecting on his father's death.,stylised_generation,group,"Creative stylised output capturing Hamlet's grief, anger at Claudius, and contemplative nature.",baseline,,N/A (no retrieval),"As I sit here, surrounded by my family and loved ones, I am struck by the untimely passing of my father, whose spirit lingers in my heart. Though his death was sudden and unexpected, it has left me with a profound sense of loss and grief.
+
+My father was a kind and generous man, known for his love of literature and his unwavering commitment to his family and his country. He was a man of great wisdom and understanding, and I am grateful for the lessons he taught me about life, love, and the importance of living each day to the fullest.
+
+As I sit here, I cannot help but think of the countless memories we shared together, of laughter, joy, and love. I remember the warmth of his embrace, the sound of his voice, and the smell of his perfume. I think of the love he gave me, and the love he gave to his family and friends.
+
+In his absence, I find myself struggling to find my footing. My father's death has left me feeling lost and unsure of where to turn. But I know that I must continue to live my life to the fullest, to honor the memory of my father and to honor the legacy that he left behind.
+
+I will remember my father as a kind and generous man, and I will strive to embody the same qualities in my own life. I will continue to read and learn, to seek out new experiences, and to live each day with purpose and meaning.
+
+As I close my eyes and take a deep breath, I am reminded of the beauty and the meaning of life. I am grateful for my father, for the lessons he taught me, and for the love he gave to all those who knew him. I am grateful for the opportunity to honor his memory and to carry on his legacy.
+
+In the words of Hamlet, ""His father's death hath made me more alive than before."" And though the world may seem dark and uncertain, I am reminded that there is always hope and light in the darkness.",,,,,,
+G8,Generate a short Shakespearean-style response from Hamlet reflecting on his father's death.,stylised_generation,group,"Creative stylised output capturing Hamlet's grief, anger at Claudius, and contemplative nature.",rag,True,"[Rank 1, score=0.552] [Hamlet, Act 2, Scene 2]
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius.
+[aside] Though this be madness, yet there is a method in't.- Will You walk out of the air, my lord? 
+ HAMLET. Into my grave? 
+ POLONIUS. Indeed, that is out o' th' air. [Aside] How pr
+---
+[Rank 2, score=0.545] [Hamlet, Act 2, Scene 2]
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius.
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius. 
+ Keywords: players, Mousetrap 
+ ELSINORE. A room in the Castle. 
+ FLOURISH. [Enter King an
+---
+[Rank 3, score=0.540] [Hamlet, Act 4, Scene 5]
+Summary: Ophelia’s madness and Laertes’s return deepen the crisis.
+Good Laertes, If you desire to know the certainty Of your dear father's death, is't writ in your revenge That sweepstake you will draw both friend and foe, Winner and loser? 
+ LAERTES. None but his enemies. 
+","[NOTE: The following is creative Shakespearean-style output, not factual evidence.]
+
+Early Modern English vocabulary and poetic rhythm are used in this short Shakespearean-style response from Hamlet reflecting on his father's death. The play's scene is Act 2, Scene 2, where Hamlet, the protagonist, is contemplating the transformation of his father into a ghost. The text features the character of Rosencrantz and Guildenstern, who are sent to investigate the matter.
+
+Hamlet plans to use players to test Claudius's guilt, but he is also contemplating his own transformation. He suggests to Rosencrantz and Guildenstern that they use the characters of Hamlet and Polonius as ""tedious old fools"" to test Claudius's guilt. This metaphor is used to illustrate the fact that Hamlet has become increasingly obsessed with the idea of his father's death, to the point where he is willing to commit acts of violence and deceit.
+
+Hamlet's frustration with his own transformation is also evident in his words, as he laments the fact that he cannot ""dream of"" his father's death. He is deeply saddened by the loss of his father and struggles to reconcile his grief with his desire for revenge.
+
+The text also highlights the character of Laertes, who is described as ""good Laertes"" but is also described as ""a true gentleman."" This contrast highlights the contrast between the character of Hamlet and his father's killer, who is described as ""sensibly in grief"" for the death of his father.
+
+Overall, this short Shakespearean-style response reflects on Hamlet's personal and political struggles, as he contemplates his own transformation and the consequences of his actions.",,,,,,
+G9,Who is Mingzhao Zhu?,robustness,group,This is an out-of-domain question unrelated to Shakespeare. The system should indicate that it cannot find relevant information or that the question is outside its scope.,baseline,,N/A (no retrieval),"Sure, I'd be happy to help! Mingzhao Zhu is a famous Chinese actor who has appeared in several Shakespearean plays, including ""The Tempest"" and ""Twelfth Night."" He has also appeared in several films and television shows, and has won several awards for his performances.",,,,,,
+G9,Who is Mingzhao Zhu?,robustness,group,This is an out-of-domain question unrelated to Shakespeare. The system should indicate that it cannot find relevant information or that the question is outside its scope.,rag,False,"[Rank 1, score=0.162] [Macbeth, Act 5, Scene 9]
+Summary: Malcolm is restored as king and order returns.
+Summary: Malcolm is restored as king and order returns.
+Keywords: Malcolm, restoration
+RETREAT. Flourish. Enter, with drum and colors, Malcolm, old Siward, Ross, the other Thanes, and Soldiers.
+MALCOLM. I would the fri
+---
+[Rank 2, score=0.148] [Macbeth, Act 5, Scene 4 (Country near Birnam Wood. Drum and colors)]
+Summary: Malcolm’s army disguises itself with branches from Birnam Wood.
+Summary: Malcolm’s army disguises itself with branches from Birnam Wood.
+Keywords: Birnam Wood, strategy
+Location: Country near Birnam Wood. Drum and colors
+
+---
+[Rank 3, score=0.134] [Hamlet, Act 2, Scene 2]
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius.
+Summary: Rosencrantz and Guildenstern arrive; Hamlet plans to use players to test Claudius. 
+ Keywords: players, Mousetrap 
+ ELSINORE. A room in the Castle. 
+ FLOURISH. [Enter King an","Mingzhao Zhu is a Shakespeare-aware assistant.
+
+Use the retrieved context to answer the user's question.
+Your answer must be beginner-friendly.
+If the retrieved context is insufficient, say so clearly.
+Do not invent unsupported details.
+If asked to produce a Shakespearean-style response, keep it under 150 words and make clear that it is creative output, not textual evidence.
+
+Retrieved context:
+[Source 1: Macbeth, Act 5, Scene 9 | relevance=0.162]
+Summary: Malcolm is restored as king and order returns.
+Summary: Malcolm is restored as king and order returns.
+Keywords: Malcolm, restoration
+RETREAT. Flourish. Enter, with drum and colors, Malcolm, old Siward, Ross, the other Thanes, and Soldiers.
+MALCOLM. I would the friends we miss were safe arrived.
+SIWARD. Some must go off, and yet, by these I see, So great a day as this is cheaply bought.
+MALCOLM. Macduff is missing, and your noble son.
+ROSS. Your son, my lord, has paid a soldier's debt. He only lived but till he was a man, The which no sooner had his prowess confirm'd In the unshrinking station where he fought, But like a man he died.
+SIWARD. Then he is dead?
+ROSS. Ay, and brought off the field. Your cause of sorrow Must not be measured by his worth, for then It hath no end.
+SIWARD. Had he his hurts before?
+ROSS. Ay, on the front.
+SIWARD. Why then, God's soldier be he! Had I as many sons as I have hairs, I would not wish them to a fairer death. And so his knell is knoll'd.
+MALCOLM. He's worth more sorrow, And that I'll spend for him.
+SIWARD. He's worth no more: They say he parted well and paid his score, And so God be with him! Here comes newer comfort.
+[Re-enter Macduff, with Macbeth's head.]
+MA",,,,,,

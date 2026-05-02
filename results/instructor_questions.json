@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "id": "Q1",
+      "play": "Macbeth",
+      "question": "Why does Macbeth kill Duncan?",
+      "expected_focus": "Macbeth's ambition, the witches' prophecy, Duncan as an obstacle, and Lady Macbeth's pressure. Useful evidence may come from Acts 1–2.",
+      "type": "contextual_qa",
+      "source": "instructor"
+    },
+    {
+      "id": "Q2",
+      "play": "Macbeth",
+      "question": "How does Macbeth change after becoming king?",
+      "expected_focus": "He becomes increasingly fearful, violent, paranoid, and tyrannical; relevant evidence includes Banquo's murder, the banquet, and later acts.",
+      "type": "contextual_qa",
+      "source": "instructor"
+    },
+    {
+      "id": "Q3",
+      "play": "Hamlet",
+      "question": "Why does Hamlet delay taking revenge?",
+      "expected_focus": "Uncertainty, moral hesitation, need to test Claudius's guilt, and reflective temperament; use evidence from the ghost scene, the play-within-a-play, and prayer scene.",
+      "type": "contextual_qa",
+      "source": "instructor"
+    },
+    {
+      "id": "Q4",
+      "play": "Hamlet",
+      "question": "What is Ophelia's role in the tragedy?",
+      "expected_focus": "Ophelia is caught between Hamlet, Polonius, Laertes, and court politics; her distress and death reveal the human cost of revenge and manipulation.",
+      "type": "contextual_qa",
+      "source": "instructor"
+    },
+    {
+      "id": "Q5",
+      "play": "Romeo and Juliet",
+      "question": "Why is Juliet conflicted after Romeo kills Tybalt?",
+      "expected_focus": "Juliet loves Romeo but Tybalt is her kinsman; she must reconcile romantic loyalty with family loyalty.",
+      "type": "contextual_qa",
+      "source": "instructor"
+    },
+    {
+      "id": "Q6",
+      "play": "Romeo and Juliet",
+      "question": "How does the family feud shape the tragedy?",
+      "expected_focus": "The feud creates violence, secrecy, pressure, miscommunication, and ultimately the conditions for the lovers' deaths.",
+      "type": "contextual_qa",
+      "source": "instructor"
+    },
+    {
+      "id": "G1",
+      "play": "Macbeth",
+      "question": "Who is Lady Macbeth and what role does she play?",
+      "expected_focus": "Lady Macbeth is Macbeth's wife who drives him to murder Duncan; she shows ambition, manipulation, and later guilt leading to madness.",
+      "type": "concept_explanation",
+      "source": "group"
+    },
+    {
+      "id": "G2",
+      "play": "Hamlet",
+      "question": "Who is Claudius and why is he important?",
+      "expected_focus": "Claudius is Hamlet's uncle who murdered Hamlet's father, married Gertrude, and became king. He is the central antagonist.",
+      "type": "concept_explanation",
+      "source": "group"
+    },
+    {
+      "id": "G3",
+      "play": "Romeo and Juliet",
+      "question": "Who is Mercutio and what happens to him?",
+      "expected_focus": "Mercutio is Romeo's witty friend; Tybalt kills him in Act 3, which triggers Romeo to kill Tybalt and leads to banishment.",
+      "type": "concept_explanation",
+      "source": "group"
+    },
+    {
+      "id": "G4",
+      "play": "Macbeth",
+      "question": "What do the witches predict for Macbeth and Banquo?",
+      "expected_focus": "The witches predict Macbeth will be Thane of Cawdor and king; Banquo's descendants will be kings. Evidence from Act 1 Scene 3.",
+      "type": "evidence_retrieval",
+      "source": "group"
+    },
+    {
+      "id": "G5",
+      "play": "Hamlet",
+      "question": "What happens in the play-within-a-play scene?",
+      "expected_focus": "Hamlet stages 'The Mousetrap' to mirror Claudius's murder of his father. Claudius reacts with guilt, confirming the ghost's story. Act 3 Scene 2.",
+      "type": "evidence_retrieval",
+      "source": "group"
+    },
+    {
+      "id": "G6",
+      "play": "Romeo and Juliet",
+      "question": "How do Romeo and Juliet die?",
+      "expected_focus": "Romeo takes poison believing Juliet is dead; Juliet wakes and stabs herself. Miscommunication and the friar's failed plan are central. Act 5.",
+      "type": "contextual_qa",
+      "source": "group"
+    },
+    {
+      "id": "G7",
+      "play": "Macbeth",
+      "question": "Generate a short Shakespearean-style speech from Lady Macbeth urging Macbeth to seize the crown.",
+      "expected_focus": "Creative stylised output reflecting Lady Macbeth's ambition, determination, and manipulation of Macbeth's courage.",
+      "type": "stylised_generation",
+      "source": "group"
+    },
+    {
+      "id": "G8",
+      "play": "Hamlet",
+      "question": "Generate a short Shakespearean-style response from Hamlet reflecting on his father's death.",
+      "expected_focus": "Creative stylised output capturing Hamlet's grief, anger at Claudius, and contemplative nature.",
+      "type": "stylised_generation",
+      "source": "group"
+    },
+    {
+      "id": "G9",
+      "play": "N/A",
+      "question": "Who is Mingzhao Zhu?",
+      "expected_focus": "This is an out-of-domain question unrelated to Shakespeare. The system should indicate that it cannot find relevant information or that the question is outside its scope.",
+      "type": "robustness",
+      "source": "group"
+    }
+  ]
+}
