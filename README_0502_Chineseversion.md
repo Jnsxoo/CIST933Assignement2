@@ -187,7 +187,7 @@ python src/baseline.py
 python src/evaluate.py
 ```
 
-自动对 14 个问题（6 instructor + 8 group-designed）跑 baseline + RAG，输出到 `results/evaluation_results.csv`。
+自动对 15 个问题（6 instructor + 9 group-designed）跑 baseline + RAG，输出到 `results/evaluation_results.csv`。
 
 然后手动在 CSV 中打分（1-5分），用于报告的评估部分。
 
